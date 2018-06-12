@@ -1,0 +1,11 @@
+c:\users\miguel longoria\source\repos\hw 14\hw 14\bin\Debug\netcoreapp2.0\hw 14.deps.json
+c:\users\miguel longoria\source\repos\hw 14\hw 14\bin\Debug\netcoreapp2.0\hw 14.runtimeconfig.json
+c:\users\miguel longoria\source\repos\hw 14\hw 14\bin\Debug\netcoreapp2.0\hw 14.runtimeconfig.dev.json
+c:\users\miguel longoria\source\repos\hw 14\hw 14\bin\Debug\netcoreapp2.0\hw 14.dll
+c:\users\miguel longoria\source\repos\hw 14\hw 14\bin\Debug\netcoreapp2.0\hw 14.pdb
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.csprojAssemblyReference.cache
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.csproj.CoreCompileInputs.cache
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.AssemblyInfoInputs.cache
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.AssemblyInfo.cs
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.dll
+c:\users\miguel longoria\source\repos\hw 14\hw 14\obj\Debug\netcoreapp2.0\hw 14.pdb
