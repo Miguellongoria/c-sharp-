@@ -35,8 +35,9 @@ namespace methods
             Console.WriteLine(x - y);
         }
 
-
-
-
+        private static void hiddenmethod()
+        {
+            Console.WriteLine("YOULL never see it");
+        }
     }
 }
