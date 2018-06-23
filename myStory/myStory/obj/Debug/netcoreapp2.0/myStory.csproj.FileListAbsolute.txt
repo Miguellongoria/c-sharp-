@@ -1,0 +1,11 @@
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csprojAssemblyReference.cache
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csproj.CoreCompileInputs.cache
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfoInputs.cache
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfo.cs
+c:\users\miguel longoria\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.deps.json
+c:\users\miguel longoria\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.json
+c:\users\miguel longoria\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.dev.json
+c:\users\miguel longoria\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.dll
+c:\users\miguel longoria\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.pdb
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.dll
+c:\users\miguel longoria\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.pdb
